@@ -2,4 +2,3 @@ hi
 welcome
 devop class
 git class
-completed
